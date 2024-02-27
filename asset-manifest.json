@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RPL_Tugas1/static/css/main.7678edde.css",
+    "main.js": "/RPL_Tugas1/static/js/main.015a97e8.js",
+    "static/js/453.d7495b5f.chunk.js": "/RPL_Tugas1/static/js/453.d7495b5f.chunk.js",
+    "index.html": "/RPL_Tugas1/index.html",
+    "main.7678edde.css.map": "/RPL_Tugas1/static/css/main.7678edde.css.map",
+    "main.015a97e8.js.map": "/RPL_Tugas1/static/js/main.015a97e8.js.map",
+    "453.d7495b5f.chunk.js.map": "/RPL_Tugas1/static/js/453.d7495b5f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7678edde.css",
+    "static/js/main.015a97e8.js"
+  ]
+}
